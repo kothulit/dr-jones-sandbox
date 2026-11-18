@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d0be851bc83534f897d3f42ea3fe5b, type: 3}
+  m_Name: DrJonesPrefabs
+  m_EditorClassIdentifier: Assembly-CSharp::DrJones.PrefabLibrary
+  FloorTile: {fileID: 6704285156098165052, guid: ddb20bd12bcd0ac408a5052ccd62fd02, type: 3}
+  WallBlock: {fileID: 263544442583324336, guid: 35e37cae97f0cc54ab019fe568e20553, type: 3}
+  BreakableWall: {fileID: 3940321924562705528, guid: a0f084a57f0a9144888f3c6231f5adaa, type: 3}
+  Player: {fileID: 3993619169921056114, guid: ef70a6c44b8252d478db577f41034911, type: 3}
+  Boulder: {fileID: 4495631066722863755, guid: 97e049589ed11a746be12ef2f3038a78, type: 3}
+  SpecialBoulder: {fileID: 9178939650953957501, guid: 18fc395a3a1cacf42a9111656aa0587f, type: 3}
+  FertilityIdol: {fileID: 3005419148858341385, guid: 2814497874292924a92152fa503e18c0, type: 3}
+  ThorFragment: {fileID: 4146197339091257989, guid: 3ef56f74c86c9a84aa938908b54d13e5, type: 3}
+  ThorHammer: {fileID: 4641400650034514066, guid: dbf4cd75ea773534d9eac84f398d7fad, type: 3}
+  ExitMarker: {fileID: 8574651791529645744, guid: 76325d8322499c4478822059b9f8d716, type: 3}
+  Heart: {fileID: 1519951689928201254, guid: 968420a01d3aa4b47a1ef06ebd263dce, type: 3}

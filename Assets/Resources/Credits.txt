@@ -1,0 +1,17 @@
+Музыка и звуки:
+Menu — «Relics of Past», Centurion_of_war, OpenGameArt, CC0
+Level1 — «TBBT – The Boulder Song», acoustic fingerstyle guitar cover by Kaminari
+Level2 — «TBBT - Thor and Dr. Jones», piano cover by Chubby Squirrel Piano
+Victory — «Indiana Jones Theme Song»
+Defeat — «No Hope (You died)», Cleyton Kauffman, OpenGameArt, CC0
+BoulderRoll — «Tumbling Rocks», Fission9, Freesound, CC0
+
+Текстуры (CC0):
+Пол — Tiles001, ambientCG
+Стены — Red Sandstone Wall, Poly Haven
+Валун — Rock048, ambientCG
+Шляпа / дерево / металл — сканы ambientCG (Leather, Wood, Metal)
+
+Шрифты:
+Rough Runners - Gassstype Studio 2023
+Modula - Copyright AlphabetFan2014 2026
